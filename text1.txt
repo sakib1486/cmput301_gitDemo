@@ -1,2 +1,1 @@
-My first line.
-What a conflict
+Hi this is my first text line.
